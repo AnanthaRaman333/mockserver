@@ -1,0 +1,102 @@
+[
+   {
+      "type":"user_profile",
+      "details":{
+         "thumbnail":"",
+         "name":"Umamaheswaran",
+         "info":"umamaheswaran.bhojarajan@healthify.com",
+         "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/efb51d31-2333-481f-8a62-fd83e3a2e08f.png",
+         "deeplink":"hmein://activity/ProfileActivity"
+      }
+   },
+   {
+      "type":"card",
+      "details":{
+         "title":"HealthifyTrack+",
+         "subtext":"Ends 22 Mar 2023 (50 days left)",
+         "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/d3183db2-c071-4005-9aed-b753d0d985d9.png",
+         "primary_cta":{
+            "text":"Upgrade",
+            "deeplink":"hmein://activity/Plansv2Activity"
+         },
+         "secondary_cta":{
+            "text":"Manage",
+            "deeplink":"hmein://activity/ManageSubscription"
+         }
+      }
+   },
+   {
+      "type":"banner",
+      "details":{
+         "header":{
+            "text":"Invite your friends",
+            "img":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/cc509384-686b-4189-a787-b330c210c3b0.png"
+         },
+         "deeplink":"hmein://activity/B2CReferral",
+         "image":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/6bfb31e3-0302-46eb-9b94-3bc00a01277e.png",
+         "description":"<p style=\"color:#717171\">Win upto <b> 1,000 credits</b> when your friends sign up. It’s a referral offer like never before.</p>"
+      }
+   },
+   {
+      "type":"menu_list",
+      "details":{
+         "items":[
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/49ac30ca-0990-4283-b689-f448c581065b.png",
+               "text":"Health Logs",
+               "deeplink":"hmein://activity/HealthLogs",
+               "tag_icon":"optional right side image only"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/d8468818-d4a5-49b7-9772-034e082ec297.png",
+               "text":"Progress Reports",
+               "deeplink":"hmein://activity/ProgressReport",
+               "tag_icon":"optional right side image only"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/b8adbef1-05bc-4cdd-9ed2-0eb2eb125cd4.png",
+               "text":"Reminders",
+               "deeplink":"hmein://activity/ReminderOptionsActivity",
+               "tag_icon":"optional right side image only"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/338a1712-7243-40a7-9f96-7f55bb3dfc50.png",
+               "text":"Goals and Budgets",
+               "deeplink":"hmein://activity/GoalSettings",
+               "tag_icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/0d5a8be4-0915-4a16-b08d-900e44a72e1a.png"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/44560571-7140-4038-be3d-c8e9f221f6a1.png",
+               "text":"Tasks & Leaderboard",
+               "deeplink":"hmein://activity/TaskLeadership",
+               "tag_icon":"optional right side image only"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/1a858f02-143c-450e-a536-6b047820660d.png",
+               "text":"HealthifyStudio",
+               "deeplink":"https://healthifyme.com/activity/WebViewActivity?url=https%3A%2F%2Fwww.healthifyme.com%2Fstudio%2Flive%2Flanding%3Futm_source%3Dnav-drawer%26utm_campaign%3Dstudio-home",
+               "tag_icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/4081340c-2cc7-4d5a-947c-b188fcbb65a7.png"
+            }
+         ]
+      }
+   },
+   {
+      "type":"menu_list",
+      "details":{
+         "items":[
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/8fc531a8-5a7d-464f-8398-dcf5fa91e608.png",
+               "text":"Help & Support",
+               "deeplink":"hmein://activity/HelpAndSupport",
+               "tag_icon":"optional right side image only"
+            },
+            {
+               "icon":"https://s3.ap-south-1.amazonaws.com/tpng-images-test/random/original/ba09d362-f674-4157-a9e4-c29b862ca9c3.png",
+               "text":"Settings",
+               "deeplink":"hmein://activity/AppSettings",
+               "tag_icon":"optional right side image only"
+            }
+         ]
+      }
+   }
+]
